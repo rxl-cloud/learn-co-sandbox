@@ -1,0 +1,11 @@
+var arrowFunction = () => {
+  return 'Arrow functions are great!'
+  };
+var arrowFunction = () => {
+  console.log('I was called!')
+  }
+  
+  var regularFunction =
+  function() {
+    console.log('I was called, too!')
+    }
